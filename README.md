@@ -1,3 +1,4 @@
+![Knowledge takes up no space](https://raw.githubusercontent.com/tuusuario/turepositorio/ruta/de/la/imagen.jpg)
 # 💫 About Me:
 Hi, i´m Emiliano!
 After several years of working as a business consultant, I decided to make a career change towards IT areas. I have developed knowledge in areas such as data analytics, data science (specifically machine learning), and as a full-stack developer
