@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAF-lNaCY-Y/OGiiSufVRlZhKtIyhKPwQg/view" alt="Hello" width="90%">
+  <img src="https://i.ibb.co/qYCt7vV/Copia-de-Emiliano-Lopez-Filppini.jpg" alt="Copia-de-Emiliano-Lopez-Filppini" alt="Hello" width="90%">
 </p>
 
 # 💫 About Me:
