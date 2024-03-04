@@ -6,7 +6,7 @@
 Hi, i´m Emiliano!
 After several years of working as a business consultant, I decided to make a career change towards IT areas. I have developed knowledge in areas such as data analytics, data science (specifically machine learning), and as a full-stack developer
 
-🫂I enjoy working in teams, and my years of experience working as a coach for both groups and individuals have allowed me to develop various soft skills, such as listening, critical thinking, and motivation.
+👂I enjoy working in teams, and my years of experience working as a coach for both groups and individuals have allowed me to develop various soft skills, such as active listening, critical thinking, and motivation.
 
 🔭 I’m currently working on Kaggle Machine Learning projects and Node js, react, redux projects as well<br><br>
 🌱 I’m currently learning Python for Machine Learning, React, Node Js, tailwind.<br>
