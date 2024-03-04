@@ -1,4 +1,7 @@
-![Knowledge takes up no space](https://raw.githubusercontent.com/tuusuario/turepositorio/ruta/de/la/imagen.jpg](https://www.canva.com/design/DAF-lNaCY-Y/_uTxOKwIauYuL6wYjUGaMg/view?utm_content=DAF-lNaCY-Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<p align="center">
+  <img src="https://www.canva.com/design/DAF-lNaCY-Y/OGiiSufVRlZhKtIyhKPwQg/view" alt="Hello" width="90%">
+</p>
+
 # 💫 About Me:
 Hi, i´m Emiliano!
 After several years of working as a business consultant, I decided to make a career change towards IT areas. I have developed knowledge in areas such as data analytics, data science (specifically machine learning), and as a full-stack developer
