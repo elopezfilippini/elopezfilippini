@@ -11,7 +11,7 @@ After several years of working as a business consultant, I decided to make a car
 🔭 I’m currently working on Kaggle Machine Learning projects and Node js, react, redux projects as well<br><br>
 🌱 I’m currently learning Python for Machine Learning, React, Node Js, tailwind.<br>
 ---> feel free to reach out to me at elopezfilippini@gmail.com.
-.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emiliano-lopez-filippini-47510138/) 
