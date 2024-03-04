@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/qYCt7vV/Copia-de-Emiliano-Lopez-Filppini.jpg" alt="Copia-de-Emiliano-Lopez-Filppini" alt="Hello" width="90%">
+  <img src="https://i.ibb.co/4pqkcw9/Copia-de-Emiliano-Lopez-Filppini-1.png" alt="Copia-de-Emiliano-Lopez-Filppini" alt="Hello" width="90%">
 </p>
 
 # 💫 About Me:
